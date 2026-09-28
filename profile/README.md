@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://crushable.dev/assets/crushable-icon.png" width="96" alt="Crushable">
+  <img src="https://raw.githubusercontent.com/crushablehq/.github/main/assets/crushable-icon.png" width="96" height="96" alt="Crushable">
 </p>
 
 <h1 align="center">Crushable</h1>
